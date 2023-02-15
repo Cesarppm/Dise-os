@@ -1,16 +1,10 @@
-# disenos
+# diseños
 
 A new Flutter project.
 
-## Getting Started
+Diseños desde 0
 
-This project is a starting point for a Flutter application.
+![image](https://user-images.githubusercontent.com/56771357/219220595-03c619d6-792a-4496-bf57-d07e64a4b5ef.png)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://user-images.githubusercontent.com/56771357/219220704-fa386b9d-acad-4b69-ae8f-1497fa67f25b.png)
